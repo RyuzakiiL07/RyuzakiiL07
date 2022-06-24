@@ -1,13 +1,20 @@
-### Olá, sou o Luis Fernando 👋
+##
+<h3 align="center">🖤 Olá, sou o Luis Fernando, mas também conhecido por amigos como Ryuzaki, tenho 21 anos, sou estudante de T.I. </h3>
 
 ##
 
-- 🔭 Udemy: Estudando HTML, CSS, JS, SQL. 
-- ⚡ Cursoemvideo: Estudando Python git e github.
-- 🌱 Cursando na faculdade Sistema da Informação.
-- 👯 Desenvolvendo automações e bots para aprendizagem.
+<div align = "center">
 
+- 🔭 Plataforma Udemy: Estudando HTML, CSS, JS, SQL.                   
+- ⚡ Plataforma Cursoemvideo: Estudando Python.
+- 🌱 Faculdade: Sistema da Informação. 
+- 👯 Atualmente estou desenvolvendo uma automação capaz de substituir o jogador em um determinado jogo para tarefas consideras chatas e demoradas.
+
+</div>
+  
 ##
+<div align = "center">Algumas informações sobre meu github! </div>
+<br>
 
 <div align="center">
   <a href="https://github.com/RyuzakiiL07">
@@ -16,7 +23,7 @@
 </div>
   
 ##
-  
+  <div align = "center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Ryuzaki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ryuzaki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,3 +45,5 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+    
+<div align = "center"> <h2> Conheça alguns projetos publicos abaixo: </h2> </div>
