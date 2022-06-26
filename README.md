@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/RyuzakiiL07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyuzakiiL07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuzakiiL07&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ##
@@ -42,7 +42,7 @@
    </div>
   <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RyuzakiiL07/RyuzakiiL07/blob/output/github-contribution-grid-snake.svg)
   
 </div>
     
