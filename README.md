@@ -20,7 +20,6 @@
   <a href="https://github.com/RyuzakiiL07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyuzakiiL07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
-    ##
   
  <div align = "center">
   <div style="display: inline_block"><br>
