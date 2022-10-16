@@ -5,7 +5,7 @@
 
 <div align = "center">
 
-- 🔭 Plataforma Udemy: Estudando HTML, CSS, JS, SQL.                   
+- 🔭 Plataforma Udemy: Estudando HTML, CSS, JS, SQL E MONGODB.                   
 - ⚡ Plataforma Cursoemvideo: Estudando Python.
 - 🌱 Faculdade: Sistema da Informação. 
 - 👯 Atualmente estou desenvolvendo uma automação capaz de substituir o jogador em um determinado jogo para tarefas consideras chatas e demoradas.
