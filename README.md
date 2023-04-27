@@ -1,5 +1,5 @@
 ##
-<h3 align="center">🖤 Olá, sou o Luis Fernando, mas conhecido em algumas plataformas como Ryuzaki, tenho 22 anos, sou estudante de T.I. </h3>
+<h3 align="center">🖤 Olá, Eu sou o Luis Fernando. </h3>
 
 ##
 
