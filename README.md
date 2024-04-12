@@ -1,5 +1,5 @@
 ##
-<h3 align="center">🖤  Meu git está em manutenção :( </h3>
+<h3 align="center">⚠️  Meu git está em manutenção :( e devido a isso vários commits foram removidos.</h3>
 <h3 align="center">🖤 Olá, Eu sou o Luis Fernando. </h3>
 
 ##
